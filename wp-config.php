@@ -26,7 +26,7 @@ define('DB_NAME', 'wp_attic');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'labuelle');
+define('DB_PASSWORD', '23');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
