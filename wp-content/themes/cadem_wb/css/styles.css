@@ -1,0 +1,1392 @@
+/* --------------------------------------------------------	*/
+/*	Twitter Bootstrap */
+/*	Responsive media queries */
+/* --------------------------------------------------------	*/
+
+@import url("bootstrap.min.css");
+@import url("bootstrap-responsive.min.css");
+
+/* --------------------------------------------------------	*/
+/*	Base */
+/* --------------------------------------------------------	*/
+
+::-moz-selection { background: #999; color: #fff; text-shadow: none; }
+::selection { background: #999; color: #fff; text-shadow: none; }
+:focus { outline-color: transparent!important; outline-style: none!important; }
+
+html {
+	overflow-y:scroll;
+	background:#fff;	
+}
+
+body {
+	margin: 0;
+	padding: 0;                      
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	color: #8c8e90;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-text-size-adjust: 100%;	
+	cursor:default;
+  background:url(../img/background.jpg) center bottom no-repeat #e9eff0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial;  
+  font-weight: normal;
+	line-height: 1.25;
+ 	color: #3c3c3c;
+  margin:0px;
+	padding: 15px 0;
+  clear:both;
+}
+
+h1 {
+  font-size:24px;
+  color: #00ce9b;
+  padding: 10px 0 45px 0;
+}
+
+h2 {
+  font-size:16px;
+  font-weight: bold;
+	padding: 0 0 24px 0;
+}
+
+h3 {
+  font-size:13px;
+  line-height:22px;
+ 	color: #323232;
+	padding: 12px 0;
+}
+
+h4 {
+  font-size:13px;
+  line-height:22px;
+ 	color: #323232;
+	padding: 10px 0;
+}
+
+hr {
+  height:0px;
+  border:1px solid #cbcfd1;  
+}
+
+p {
+  margin:15px 0px;
+}
+
+blockquote {        
+  color:#adb0b2;
+  margin:15px 0px;
+}
+
+a {
+  color:#00ce9b;
+  text-decoration:none;
+}
+
+a:hover {
+  color:#00ce9b;
+  text-decoration:none;
+}
+
+img {
+  width:100%;
+}
+
+/* --------------------------------------------------------	*/
+/*	Main Classes */
+/* --------------------------------------------------------	*/
+
+.main{
+  background:url(../img/pw_maze_white.png) #f3f3f3;
+  overflow:hidden;
+}
+
+.content{
+  width:100%;
+  overflow:hidden;
+}
+
+.site {
+  padding:60px 40px;
+  background:#fff;
+  border:1px solid #d9dddf;
+}
+
+.gray {
+  color:#8c8e90;
+}
+
+.gray2 {
+  color:#5e6061;
+}
+
+.gray3 {
+  color:#c8ccce;
+}
+
+.gray4 {
+  color:#505050;
+}
+
+.green {
+  color:#00ce9b;
+}
+
+.red {
+  color:#ff3333;
+}
+
+.white {
+  color:#fff;
+}
+
+.bold {
+  font-weight:bold;
+}
+
+.normal {
+  font-weight:normal;
+}
+
+.space5 {
+  height:5px;
+  clear:both;
+}
+
+.space10 {
+  height:10px;
+  clear:both;
+}
+
+.space15 {
+  height:15px;
+  clear:both;
+}
+
+.space20 {
+  height:20px;
+  clear:both;
+}
+
+.space25 {
+  height:25px;
+  clear:both;
+}
+
+.space30 {
+  height:30px;
+  clear:both;
+}
+
+.space50 {
+  height:50px;
+  clear:both;
+}
+
+.left {
+  text-align:left;
+}
+
+.right {
+  text-align:right;
+}
+
+.f-left {
+  float:left !important;
+}
+
+.f-right {
+  float:right;
+}
+
+.pad1 {
+  padding-top:6px;
+}
+
+.pad2 {
+  padding-top:18px;
+}
+
+.c-b {
+  clear:both;
+}
+
+/* --------------------------------------------------------	*/
+/*  Header  */
+/* --------------------------------------------------------	*/
+  
+.logo img {
+  width:auto;
+  float:left;
+}
+
+.slogan {
+  font-style:italic;
+  line-height:48px;
+  color:#cbcfd1;
+  padding-left:30px;
+  float:left;
+}
+
+.social-top {
+  padding-top:6px;
+  text-align:right;
+}    
+
+  /* --------------------------------------------------------	*/
+  /*  Search  */
+  /* --------------------------------------------------------	*/
+  
+  .search-box{
+    position:relative;
+  }
+  
+  .search {
+    width:80%;
+    height:30px;
+    border:1px solid #cbcfd1;
+    color:#8c8e90;
+    background: url(../img/search-back.png) left bottom repeat-x #f5f7f8;
+    padding-left:5%;
+    padding-right:15%;
+  }
+  
+  .search-icon {
+    position:absolute;
+    font-size:20px;
+    top:6px;
+    right:8px;
+    color:#cbcfd1;
+  }
+
+  /* --------------------------------------------------------	*/
+  /*  Slider  */
+  /* --------------------------------------------------------	*/
+    
+  #slider1 {
+    width:100%;
+    border-bottom:2px solid #cbcfd1;
+  }
+
+/* --------------------------------------------------------	*/
+/*	Navigation */
+/* --------------------------------------------------------	*/
+  
+.navbar {
+  color:#8c8e90; 
+  background:#fff;
+  border-bottom:1px solid #cbcfd1;
+  font-size:14px;
+  height:53px;
+  position:relative;
+}
+
+.navbar .nav-responsive {
+	display:none;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  line-height:20px;
+  height:36px;
+  border: 1px solid #cbcfd1;
+  border-bottom: 2px solid #cbcfd1;
+  border-radius: 0px;
+  color: #464646;
+  background:url(../img/select-box.png) right center no-repeat;
+  -webkit-appearance: none;
+  opacity: 0.6;
+  -webkit-transition: all 0.8s ease;
+}
+
+.nav-responsive:hover {
+  opacity: 0.9;
+  -webkit-transition: all 0.8s ease;
+}
+
+.navbar .nav > li > a {
+	color: #8c8e90 !important;
+  text-shadow: none;
+  border-bottom:2px solid #fff;
+  padding:15px 24px 16px 22px; 
+  background: transparent !important;
+  background:url(../img/menu-divider.png) right center no-repeat !important;
+}
+
+.navbar .nav > li:first-child > a {
+  padding-left:0px !important;
+}
+
+.navbar .nav > li:last-child > a {
+  background: transparent !important;
+}
+
+.navbar .nav > li:hover > a {
+	color:#00ce9b !important;
+  border-bottom:2px solid #00ce9b !important;
+}
+
+.navbar .nav > li.active > a {
+	color:#00ce9b !important;
+  border-bottom:2px solid #00ce9b !important;
+  -webkit-box-shadow:rgba(0, 0, 0, 0) 0 0 0 !important;
+  box-shadow:rgba(0, 0, 0, 0) 0 0 0 !important;
+}
+
+  /* --------------------------------------------------------	*/
+  /*	Dropdown */
+  /* --------------------------------------------------------	*/
+  
+  .navbar .nav li.dropdown:hover {
+  	border-radius:0px;
+  	background:transparent;  
+    list-style-type:none;   
+    font-size:15px;   
+  }
+          
+  .navbar .nav li ul {
+  	display:none;
+  	z-index:99;
+  	margin:0px; 
+    padding:10px 20px 10px 20px; 
+  	background:#f5f7f8;  
+    }     
+         
+  .navbar .nav li:hover ul {
+  	position:absolute;
+  	display:block;
+  	list-style-type:none;
+    border:1px solid #d9dddf;
+  }  
+  
+  .navbar .nav li ul li {
+    font-size:13px;
+  	margin:0px;
+  	padding:0px;
+    width:160px;  
+    background:url(../img/divider.png) left bottom repeat-x #f5f7f8;
+  	-webkit-transition:all 0.3s;
+  	-moz-transition:all 0.3s;
+  	-o-transition:all 0.3s;
+  	-ms-transition:all 0.3s;
+  	transition:all 0.3s;
+    
+    border-bottom:1px solid #d9dddf;
+  }
+  
+  .navbar .nav li ul li:last-child {
+     border-bottom:0px;
+  }
+  
+  .navbar .nav li ul li a {
+    color:#8c8e90;
+  	padding:10px 0px 10px 0px;
+  	margin:0px;
+  	display:inline-block;
+  	text-decoration:none;
+  }
+  
+  .navbar .nav li ul li:hover a {
+  	color:#00ce9b;
+  }
+
+/* --------------------------------------------------------	*/
+/*  Home  */
+/* --------------------------------------------------------	*/
+
+.ic-1 {     
+  width:45px;  
+  height:30px;
+  font-size:30px;
+  float:left;
+}
+
+.ic-1 i {
+  color:#3c3c3c;
+}
+   
+.title-1 {
+  color:#3c3c3c;
+  float:left;
+  font-size:16px;
+  line-height:30px;
+}
+
+.text-1 {     
+  padding-left:45px;
+  clear:both;
+}
+
+.title-2 {
+  font-size:16px;
+  padding:15px 0;
+}
+
+.square-1 {
+  color:#8c8e90;
+  padding-bottom:24px;
+  border-bottom:2px solid #cbcfd1;
+}
+
+.square-1:hover img {
+  opacity:0.6;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+  -webkit-transition: all .4s ease;
+}
+
+.square-1:hover {
+  border-bottom:2px solid #00ce9b;
+}
+
+.img-container {
+  position:relative;
+}
+
+.img-bg-icon {
+  position:absolute;
+  top:0px;
+  left:0px;
+  width:100%;
+  height:100%;
+  background: url(../img/zoom-icon.png) center center no-repeat;
+  cursor:pointer;
+  display:none;
+}
+
+.square-1:hover .img-bg-icon {
+  display:block;
+} 
+
+.date {
+  width:40px;
+  height:28px;
+  line-height:28px;
+  text-align:center;
+  font-size:13px;
+  color:#fff;
+  background:#00ce9b;
+  border-bottom:2px solid #00a97f;
+  float:left;
+  margin-bottom:5px;
+}
+
+.date-2 {
+  width:80px;
+  background:#c8ccce;
+  border-bottom:2px solid #a5a8aa;
+}       
+
+/* --------------------------------------------------------	*/
+/*  Lists  */
+/* --------------------------------------------------------	*/
+
+.list-a, .list-b, .list-c {
+  padding:0px;
+  margin:0px;
+}
+
+.list-a li {
+  list-style:none;
+  padding-left:30px;
+  margin-bottom:15px;
+  background: url(../img/arrow3.png) left center no-repeat;
+}
+
+.list-b li {
+  list-style:none;
+  margin-bottom:10px;
+}
+
+.list-b i {
+  color:#00ce9b;
+  padding-right:4px;
+}
+
+.list-c i {
+  font-size:10px;
+  padding-right:4px;
+}
+
+.list-c li {
+  list-style:none;
+  margin-bottom:4px;
+}
+
+.list-c a {
+  color:#8c8e90;
+  text-decoration:none;
+}
+
+.list-c a:hover {
+  color:#00ce9b;
+  text-decoration:none;
+}
+
+/* --------------------------------------------------------	*/
+/*  Client Say  */
+/* --------------------------------------------------------	*/
+
+.client-say {
+  border:1px solid #d9dddf;
+  padding:20px;
+  background:#f5f7f8;
+}
+
+.client-say-2 {
+  position:relative;
+  top:-1px;
+  color:#323232;
+  text-align:right;
+  padding-top:15px;
+  padding-right:30px;
+  background: url(../img/triangle.png) left top no-repeat;
+  background-position: 40px 0;
+  z-index:20;
+  overflow:hidden;
+}
+
+.quotes {
+  float:right;
+}
+
+.quotes i {
+  font-size:17px;
+  padding-right:6px;
+}
+
+/* --------------------------------------------------------	*/
+/*  Progress Bar  */
+/* --------------------------------------------------------	*/
+
+.progress {
+  height:35px;
+  border-radius:0px;
+  background:url(../img/progress-back.png) bottom left repeat-x #f5f7f8 !important; 
+  -webkit-box-shadow:rgba(0, 0, 0, 0) 0 0 0 inset;
+  margin-bottom:8px;
+}
+
+.bar {
+  height:35px;
+  line-height:35px;
+  background:#00ce9b !important;
+  border-bottom:1px solid #00ae83 !important;
+  -webkit-box-shadow:rgba(0, 0, 0, 0) 0 0 0 inset;
+  text-shadow: none !important;
+  text-align:left !important;
+  padding-left:30px !important;
+}
+ 
+/* --------------------------------------------------------	*/
+/*  Buttons  */
+/* --------------------------------------------------------	*/
+  
+.btn {
+  color:#fff;
+  background:#a5a8aa;
+  height:48px;
+  line-height:48px;
+  padding:0px 22px;
+  text-shadow:none;
+  border-radius:0px;
+  border:0px;
+  border-bottom:2px solid #838587;
+  margin-bottom:2px;
+}
+
+.btn:hover {
+  color:#fff;
+  background:#00ce9b;
+  border-bottom:2px solid #00a97f;
+}
+
+.btn-gray2 {
+  background:#5e6061;
+  border-bottom:2px solid #3e4041;
+} 
+
+/* --------------------------------------------------------	*/
+/*  Accordion  */
+/* --------------------------------------------------------	*/
+
+.accordion-group {
+  border-radius:0px !important;
+}
+ 
+.accordion-heading {
+  background:#f5f7f8;
+}
+     
+/* --------------------------------------------------------	*/
+/*  Alerts  */
+/* --------------------------------------------------------	*/
+       
+.alert {
+  margin-bottom:9px;
+  color:#c3c384;
+  background:#f8f8d1;
+  border-radius:0px;
+  border:1px solid #d1d188 !important;
+  border-bottom:2px solid #d1d188 !important;
+  text-shadow:none !important;
+}
+  
+.alert-error {
+  color:#ff7e7e;
+  background:#ffe4e4;
+  border:1px solid #ffaaaa !important;
+  border-bottom:2px solid #ffaaaa !important;
+}
+
+.alert-info {
+  color:#789ab9;
+  background:#e4f2ff;
+  border:1px solid #96c0e7 !important;
+  border-bottom:2px solid #96c0e7 !important;
+}
+
+.alert-success {
+  color:#7ea07b;
+  background:#d4edd2;
+  border:1px solid #9eca9a !important;
+  border-bottom:2px solid #9eca9a !important;
+}
+
+/* --------------------------------------------------------	*/
+/*  Icons  */
+/* --------------------------------------------------------	*/
+
+.icons-s1 {
+  font-size:34px;
+}
+
+.icons-s2 {
+  font-size:28px;
+}
+
+.icons-s3 {
+  font-size:22px;
+}
+
+.icons-s4 {
+  font-size:16px;
+}
+
+/* --------------------------------------------------------	*/
+/*  Tables  */
+/* --------------------------------------------------------	*/
+
+table {
+  width:100%;
+  border-radius:0px !important;
+}
+
+th, td {
+  border-radius:0px !important;
+}
+      
+th {
+  background:#f5f7f8;
+}
+        
+/* --------------------------------------------------------	*/
+/*  Forms  */
+/* --------------------------------------------------------	*/
+
+.form-main input, .form-main textarea {
+  width:94.4% !important;
+  height:20px !important;
+  padding:5px 2.6% 5px 2.6%!important;
+  margin-top:10px !important;
+  background:#f5f7f8 !important;
+  border-radius:0px !important;
+  border:1px solid #cbcfd1 !important;
+  border-bottom:2px solid #cbcfd1 !important;
+  -webkit-box-shadow:rgba(0, 0, 0, 0) 0 0 0 !important;
+  box-shadow:rgba(0, 0, 0, 0) 0 0 0 !important;
+}
+
+.form-main textarea {
+  height:200px !important;
+  width:97% !important;
+  padding:5px 1.4% 5px 1.4%!important;
+}
+
+/* --------------------------------------------------------	*/
+/*  Paging  */
+/* --------------------------------------------------------	*/
+
+.paging {
+  width:30px;
+  height:28px;
+  line-height:30px;
+  text-align:center;
+  font-size:13px;
+  color:#fff;
+  background:#c8ccce;
+  border-bottom:2px solid #a5a8aa;
+  float:left;
+  margin-bottom:5px;
+  margin-right:1px;
+}
+
+.paging:hover {
+  color:#fff;
+  background:#00ce9b;
+  border-bottom:2px solid #00a97f;
+  text-decoration:none;
+}
+
+/* --------------------------------------------------------	*/
+/*  Blog Detail  */
+/* --------------------------------------------------------	*/
+
+.blog-icon-container {
+  position:relative;
+  width:100%;
+  height:95px;
+  background:#a5a8aa;
+  border-bottom:1px solid #838587;
+}
+
+.blog-icon {
+  font-size:33px;
+  color:#fff;
+  position:absolute;
+  width:30px;
+  height:30px;
+  left:50%;
+  top:50%;
+  margin:-15px 0 0 -15px;
+}
+      
+.blog-date {
+  width:25%;              
+  height:28px;
+  line-height:28px;
+  text-align:center;
+  font-size:13px;
+  color:#fff;
+  background:#00ce9b;
+  border-bottom:2px solid #00a97f;
+  float:left;
+  margin-bottom:5px;
+}
+
+.blog-date-2 {
+  width:75%;
+  background:#c8ccce;
+  border-bottom:2px solid #a5a8aa;
+}
+
+.post-d-info i {
+  padding:0px 5px;
+}
+
+.post-d-info h2 {
+  padding-bottom:15px;
+}
+
+.post-d-info a:hover {
+  text-decoration:none !important;
+}     
+  
+  /* --------------------------------------------------------	*/
+  /*  Comments  */
+  /* --------------------------------------------------------	*/
+  
+  .comment-title h2, .contact-form-title h2 {
+    padding-bottom:5px;
+  }
+  
+  
+  .comment {
+    margin-bottom:30px;
+    padding-left:50px;
+    background:url(../img/comment-img.png) left 4px no-repeat;
+  }
+  
+  .comment-date {
+    color:#c8ccce;
+  }
+  
+  .c-margin-2 {
+    margin-left:50px;
+  }
+  
+  .c-margin-3 {
+    margin-left:100px;
+  }
+  
+  .thank {
+    padding-top:12px;
+  }       
+    
+/* --------------------------------------------------------	*/
+/*  Pricing Tables  */
+/* --------------------------------------------------------	*/
+
+.pricing-tables table {
+  width:100%;
+  background:#fff;
+}
+
+.pricing-tables th {
+  font-size:16px;
+  font-weight:bold;
+  background:#f5f7f8;
+  padding:23px 0px;
+  border:1px solid #e3e6e8;
+  text-align:center;
+}
+
+.pricing-tables td {
+  padding:8px 0px;
+  border:1px solid #e3e6e8;
+  text-align:center;
+}
+
+.price {
+  font-size:36px !important;
+  padding-top:36px;   
+  line-height:30px;
+}
+
+.price2 {
+  position:relative;
+  top:-8px;
+  font-size:14px;
+}
+
+.table-footer {
+  font-size:16px;
+  background:#f5f7f8;
+  padding:44px 0px !important;
+  border:0px !important;
+  border-bottom:2px solid #cbcfd1 !important;
+}
+
+.pricing-tables .active {
+  color:#00ce9b;
+}
+
+.pricing-tables .active th, .pricing-tables .active .table-footer {
+  color:#fff;
+  background:#00ce9b;
+}
+
+.pricing-tables .active .table-footer {
+  border:0px;
+  border-bottom:2px solid #00ae83 !important;
+}
+
+/* --------------------------------------------------------	*/
+/*  Page  */
+/* --------------------------------------------------------	*/
+
+.page-image {
+  float:left;
+  margin:0px 20px 10px 0px;
+  border:1px solid #a5a8aa;
+  border-bottom: 2px solid #a5a8aa;
+}
+
+/* --------------------------------------------------------	*/
+/*  Contact  */
+/* --------------------------------------------------------	*/
+
+#map {
+  width:100%;
+  height:260px;
+  padding:0px;
+  border:0px;
+  border-bottom:2px solid #cbcfd1;
+}
+
+.logo-contact {
+  width:auto;
+}
+
+.thanks {
+  color:#8c8e90;
+  font-size:20px;
+  line-height:26px;
+  padding:25px 0px 20px 0px;
+}
+
+/* --------------------------------------------------------	*/
+/*  Side Bar  */
+/* --------------------------------------------------------	*/
+
+.actual-section {
+  height:85px;
+  line-height:58px;
+  text-align:right;
+}
+
+  /* --------------------------------------------------------	*/
+  /*	Flickr Widget */
+  /* --------------------------------------------------------	*/
+  
+  .flickr-widget .photo-stream {
+    border-bottom:2px solid #a5a8aa;
+  }
+
+  /* --------------------------------------------------------	*/
+  /*  Tags  */
+  /* --------------------------------------------------------	*/
+  
+  .tag {
+    height:20px;
+    color:#fff;
+    background:#c8ccce;
+    border-bottom:2px solid #a5a8aa;
+    padding:5px 14px 4px 14px;
+    margin-right:10px;
+    margin-bottom:10px;
+    float:left;
+  }
+  
+  .tag:hover {
+    background:#00ce9b;
+    border-bottom:2px solid #337cc1;
+  }
+
+/* --------------------------------------------------------	*/
+/*  Testimonials  */
+/* --------------------------------------------------------	*/
+
+.testimonials {
+  background:#f5f7f8;
+  border:1px solid #d9dddf;
+  padding:30px; 
+}
+
+/* --------------------------------------------------------	*/
+/*  Arrows  */
+/* --------------------------------------------------------	*/
+
+.arrow {
+  width:30px;
+  height:30px;
+  margin-left:1px;
+  display:block;
+  float:right;
+}
+
+.a-left {
+  background: url(../img/arrow2.png) no-repeat;
+}
+
+.a-right {
+  background: url(../img/arrow1.png) no-repeat;
+}
+
+.a-left:hover {
+  background: url(../img/arrow2.png) no-repeat;
+  background-position: 0 -30px;
+}
+
+.a-right:hover {
+  background: url(../img/arrow1.png) no-repeat;
+  background-position: 0 -30px;
+}
+
+/* --------------------------------------------------------	*/
+/*	Portfolio */
+/* --------------------------------------------------------	*/
+
+.portfolio{
+  overflow:hidden;
+  margin:0px;
+}
+
+.portfolio .span4, .portfolio .span6{
+  margin-top:50px;
+}
+
+.portfolio .span2, .portfolio .span3{
+  margin-top:40px;
+}
+
+.portfolio a{
+  text-decoration:none;
+}
+
+.portfolio li{
+  list-style:none;
+}
+
+.portfolio-info {
+  height:100%;
+  background:#f5f7f8;
+  border:1px solid #cbcfd1;
+  border-bottom:2px solid #cbcfd1;
+  padding:30px;
+}
+  
+  /* --------------------------------------------------------	*/
+  /*	Portfolio Filter */
+  /* --------------------------------------------------------	*/
+
+  #portfolio-filter{
+    margin:0px;
+    overflow:hidden;
+  }
+    
+  #portfolio-filter li {
+    list-style:none;
+    float:left;
+    margin-right:10px;
+    margin-top:5px;
+    padding:12px 0px;
+  }
+    
+  #portfolio-filter li a {
+    padding:12px 15px;
+    margin:0px;
+    border:0px;
+  	color:#8c8e90;
+  }
+ 
+  #portfolio-filter li:hover a {
+    color:#fff;
+    border-bottom:2px solid #00a97f;
+    background: #00ce9b;
+    text-decoration:none;
+  }
+    
+  #portfolio-filter li.active a {
+    color:#fff;
+    border-bottom:2px solid #00a97f;
+    background: #00ce9b;
+  }
+
+	/* --------------------------------------------------------	*/
+	/*	Portfolio - Isotype (filtering tags) */
+	/* --------------------------------------------------------	*/
+
+	.isotope-item {
+	  z-index: 2;
+	}
+
+	.isotope-hidden.isotope-item {
+	  pointer-events: none;
+	  z-index: 1;
+	}   
+
+	/* Isotope CSS3 transitions */    
+	.isotope,	.isotope .isotope-item {
+	  -webkit-transition-duration: 0.4s;
+		 -moz-transition-duration: 0.4s;
+		  -ms-transition-duration: 0.4s;
+		   -o-transition-duration: 0.4s;
+			  transition-duration: 0.4s;
+	}
+
+	.isotope {
+	  -webkit-transition-property: height, width;
+		 -moz-transition-property: height, width;
+		  -ms-transition-property: height, width;
+		   -o-transition-property: height, width;
+			  transition-property: height, width;
+	}
+
+	.isotope .isotope-item {
+	  -webkit-transition-property: -webkit-transform, opacity;
+		 -moz-transition-property:    -moz-transform, opacity;
+		  -ms-transition-property:     -ms-transform, opacity;
+		   -o-transition-property:         top, left, opacity;
+			  transition-property:         transform, opacity;
+	} 
+
+	/* disabling Isotope CSS3 transitions */
+	.isotope.no-transition,
+	.isotope.no-transition .isotope-item,
+	.isotope .isotope-item.no-transition {
+	  -webkit-transition-duration: 0s;
+		 -moz-transition-duration: 0s;
+		  -ms-transition-duration: 0s;
+		   -o-transition-duration: 0s;
+			  transition-duration: 0s;
+	}                                      
+
+/* --------------------------------------------------------	*/
+/*	Footer */
+/* --------------------------------------------------------	*/
+
+#footer {
+  padding:30px 41px 20px 41px;
+  background:#323232;
+  border-bottom:2px solid #060606;
+}
+
+#footer h2 {
+  color:#fff;
+}
+
+#footer hr {
+  background:#484848;
+  height:1px;
+  border:0px;
+}
+
+#footer ul {
+  margin:0px;
+}
+
+#footer li {
+  list-style:none;
+  padding:0px;
+  margin:0px;
+  line-height:13px;
+  padding-bottom:7px;
+  border:0px solid ;
+}
+
+.photo-stream {
+  float:left;
+  width:60px;
+  height:60px;
+  border-bottom:2px solid #1e1e1e;
+  margin-right:13px;
+  margin-bottom:13px;
+  overflow:hidden;
+}
+
+#footer a {
+  color:#8c8e90;
+  text-decoration:none;
+}
+
+#footer a:hover {
+  color:#00ce9b;
+  text-decoration:none;       
+}
+
+#footer a.t-link {
+  color:#00ce9b;
+  text-decoration:none;
+}
+
+#footer a.t-link:hover {
+  color:#00ce9b;
+  text-decoration:none;
+  border-bottom:1px dotted #00ce9b;       
+}
+
+.copyright {
+  padding-top:8px;
+}
+
+.back-top {
+  position:relative;
+  float:right;
+  background:url(../img/back-to-the-top.png) no-repeat;
+  width:40px;
+  height:40px;
+  display:block;
+  cursor:pointer;
+}
+
+#footer h2 {
+  margin-bottom:9px;
+}
+
+/* --------------------------------------------------------	*/
+/*	Newsletter */
+/* --------------------------------------------------------	*/
+
+  .newsletter-container {
+    position:relative;
+  }
+  
+  .newsletter-container i:hover {
+    color:#00ce9b;
+  }
+  
+  .newsletter-container form {
+    margin:0px !important;
+  }
+  
+  .newsletter {
+    width:81% !important;
+    height:32px !important;
+    font-size:13px !important;
+    padding:0px 14% 0px 5% !important;
+    color:#8c8e90 !important;
+    border-radius:0px !important;
+    border:0px !important;
+    border-bottom:2px solid #1e1e1e !important;
+    background:#272727 !important;
+    margin:0px !important;
+  }
+  
+  .newsletter-button {
+    position:absolute;
+    top:6px;
+    right:10px;
+    cursor:pointer;
+  }
+
+  textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus {
+    -webkit-box-shadow:rgba(0, 0, 0, 0.0745098) 0 1px 1px inset, rgba(0, 206, 155, 0.5) 0 0 10px;
+    border-color:rgba(82, 168, 236, 0.8);
+    box-shadow:rgba(0, 0, 0, 0.0745098) 0 1px 1px inset, rgba(0, 206, 155, 0.5) 0 0 10px;
+    outline:0;
+  }
+
+  #email {
+    width:90%;
+    padding:5%;
+    border:0px;  
+  }
+  
+  #waiting {
+    position:absolute;
+    top:0px;
+    left:0px;
+    height:28px;
+    width:90%;
+    padding:0% 5%;
+    padding-top:6px;
+    color:#c8ccce;
+    background:#1e1e1e;
+  }
+  
+  .success {
+    width:90%;
+    padding:8px 5%;
+    color:#fff;
+    background:#00ce9b;
+  }
+  
+  .error {
+    width:90%;
+    padding:8px 5%;
+    color:#fff;
+    background:#ad0c34;
+  }     
+
+/* --------------------------------------------------------	*/
+/*	Social Networks Icons */
+/* --------------------------------------------------------	*/
+
+.social-network { 
+	display:inline-block; 
+	background: url(../img/social-networks.png) no-repeat top left; 
+	width: 24px; 
+	height: 24px; 
+	background-position-y: 0; 
+	-webkit-transition:all 0.2s ease;
+	-moz-transition:all 0.2s ease;                                             
+	-o-transition:all 0.2s ease;
+	-ms-transition:all 0.2s ease;
+	transition:all 0.2s ease;
+	cursor:pointer;
+  border:0px !important;
+}
+
+/* Normal */
+.social-network.aim{ background-position: 0 0}
+.social-network.amazon{ background-position: -24px 0}
+.social-network.apple{ background-position: -48px 0}
+.social-network.behance{ background-position: -72px 0}
+.social-network.blogger{ background-position: -96px 0}
+.social-network.delicious{ background-position: -120px 0}
+.social-network.deviantart{ background-position: -144px 0}
+.social-network.digg{ background-position: -168px 0}
+.social-network.dribbble{ background-position: -192px 0}
+.social-network.ebay{ background-position: -216px 0}
+.social-network.evernote{ background-position: -240px 0}
+.social-network.facebook{ background-position: -264px 0}
+.social-network.feedburner{ background-position: -288px 0}
+.social-network.flickr{ background-position: -312px 0}
+.social-network.forrst{ background-position: -336px 0}
+.social-network.foursquare{ background-position: -360px 0}
+.social-network.github{ background-position: -384px 0}
+.social-network.google{ background-position: -408px 0}
+.social-network.gowalla{ background-position: -432px 0}
+.social-network.icq{ background-position: -456px 0}
+.social-network.itunes{ background-position: -480px 0}
+.social-network.lastfm{ background-position: -504px 0}
+.social-network.linkedin{ background-position: -528px 0}
+.social-network.meetup{ background-position: -552px 0}
+.social-network.myspace{ background-position: -576px 0}
+.social-network.newsvine{ background-position: -600px 0}
+.social-network.openid{ background-position: -624px 0}
+.social-network.paypal{ background-position: -648px 0}
+.social-network.picasa{ background-position: -672px 0}
+.social-network.pinterest{ background-position: -696px 0}
+.social-network.posterous{ background-position: -720px 0}
+.social-network.reddit{ background-position: -744px 0}
+.social-network.rss{ background-position: -768px 0}
+.social-network.skype{ background-position: -792px 0}
+.social-network.slashdot{ background-position: -816px 0}
+.social-network.soundcloud{ background-position: -840px 0}
+.social-network.stumbleupon{ background-position: -864px 0}
+.social-network.technorati{ background-position: -888px 0}
+.social-network.tumblr{ background-position: -912px 0}
+.social-network.twitter{ background-position: -936px 0}
+.social-network.viddler{ background-position: -960px 0}
+.social-network.vimeo{ background-position: -984px 0}
+.social-network.virb{ background-position: -1008px 0}
+.social-network.wordpress{ background-position: -1032px 0}
+.social-network.xing{ background-position: -1056px 0}
+.social-network.yahoo{ background-position: -1080px 0}
+.social-network.yelp{ background-position: -1104px 0}
+.social-network.youtube{ background-position: -1128px 0}
+.social-network.zerply{ background-position: -1152px 0}
+
+/* Mouseovers */
+.social-network.aim:hover,.active .social-network.aim{ background-position: 0 -24px}
+.social-network.amazon:hover,.active .social-network.amazon{ background-position: -24px -24px}
+.social-network.apple:hover,.active .social-network.apple{ background-position: -48px -24px}
+.social-network.behance:hover,.active .social-network.behance{ background-position: -72px -24px}
+.social-network.blogger:hover,.active .social-network.blogger{ background-position: -96px -24px}
+.social-network.delicious:hover,.active .social-network.delicious{ background-position: -120px -24px}
+.social-network.deviantart:hover,.active .social-network.deviantart{ background-position: -144px -24px}
+.social-network.digg:hover,.active .social-network.digg{ background-position: -168px -24px}
+.social-network.dribbble:hover,.active .social-network.dribbble{ background-position: -192px -24px}
+.social-network.ebay:hover,.active .social-network.ebay{ background-position: -216px -24px}
+.social-network.evernote:hover,.active .social-network.evernote{ background-position: -240px -24px}
+.social-network.facebook:hover,.active .social-network.facebook{ background-position: -264px -24px}
+.social-network.feedburner:hover,.active .social-network.feedburner{ background-position: -288px -24px}
+.social-network.flickr:hover,.active .social-network.flickr{ background-position: -312px -24px}
+.social-network.forrst:hover,.active .social-network.forrst{ background-position: -336px -24px}
+.social-network.foursquare:hover,.active .social-network.foursquare{ background-position: -360px -24px}
+.social-network.github:hover,.active .social-network.github{ background-position: -384px -24px}
+.social-network.google:hover,.active .social-network.google{ background-position: -408px -24px}
+.social-network.gowalla:hover,.active .social-network.gowalla{ background-position: -432px -24px}
+.social-network.icq:hover,.active .social-network.icq{ background-position: -456px -24px}
+.social-network.itunes:hover,.active .social-network.itunes{ background-position: -480px -24px}
+.social-network.lastfm:hover,.active .social-network.lastfm{ background-position: -504px -24px}
+.social-network.linkedin:hover,.active .social-network.linkedin{ background-position: -528px -24px}
+.social-network.meetup:hover,.active .social-network.meetup{ background-position: -552px -24px}
+.social-network.myspace:hover,.active .social-network.myspace{ background-position: -576px -24px}
+.social-network.newsvine:hover,.active .social-network.newsvine{ background-position: -600px -24px}
+.social-network.openid:hover,.active .social-network.openid{ background-position: -624px -24px}
+.social-network.paypal:hover,.active .social-network.paypal{ background-position: -648px -24px}
+.social-network.picasa:hover,.active .social-network.picasa{ background-position: -672px -24px}
+.social-network.pinterest:hover,.active .social-network.pinterest{ background-position: -696px -24px}
+.social-network.posterous:hover,.active .social-network.posterous{ background-position: -720px -24px}
+.social-network.reddit:hover,.active .social-network.reddit{ background-position: -744px -24px}
+.social-network.rss:hover,.active .social-network.rss{ background-position: -768px -24px}
+.social-network.skype:hover,.active .social-network.skype{ background-position: -792px -24px}
+.social-network.slashdot:hover,.active .social-network.slashdot{ background-position: -816px -24px}
+.social-network.soundcloud:hover,.active .social-network.soundcloud{ background-position: -840px -24px}
+.social-network.stumbleupon:hover,.active .social-network.stumbleupon{ background-position: -864px -24px}
+.social-network.technorati:hover,.active .social-network.technorati{ background-position: -888px -24px}
+.social-network.tumblr:hover,.active .social-network.tumblr{ background-position: -912px -24px}
+.social-network.twitter:hover,.active .social-network.twitter{ background-position: -936px -24px}
+.social-network.viddler:hover,.active .social-network.viddler{ background-position: -960px -24px}
+.social-network.vimeo:hover,.active .social-network.vimeo{ background-position: -984px -24px}
+.social-network.virb:hover,.active .social-network.virb{ background-position: -1008px -24px}
+.social-network.wordpress:hover,.active .social-network.wordpress{ background-position: -1032px -24px}
+.social-network.xing:hover,.active .social-network.xing{ background-position: -1056px -24px}
+.social-network.yahoo:hover,.active .social-network.yahoo{ background-position: -1080px -24px}
+.social-network.yelp:hover,.active .social-network.yelp{ background-position: -1104px -24px}
+.social-network.youtube:hover,.active .social-network.youtube{ background-position: -1128px -24px}
+.social-network.zerply:hover,.active .social-network.zerply{ background-position: -1152px -24px}
+

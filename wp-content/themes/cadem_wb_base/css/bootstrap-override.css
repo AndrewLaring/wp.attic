@@ -1,0 +1,81 @@
+/*
+  Resolutions below 768px
+*/
+
+@media (max-width: 768px) {
+
+  .site {
+    padding: 10px !important;
+    border: 5px !important;
+  }
+  
+  .f-right{
+    float:left !important;
+  }
+
+  .right{
+    text-align:left !important;
+  }
+  
+  .text-1{
+    padding:0px !important;
+  }
+  
+  .back-top{
+    top:0px !important;
+    float:left !important;
+  }
+
+  .search-box{
+    clear:both;
+  }
+  
+  .search{
+    width:83%;
+    padding-left:2%;
+  }
+  
+  #footer {
+    padding-left:12px;
+    padding-right:12px;
+  }   
+  
+  #footer h2 {
+    margin-top:20px;
+    margin-bottom:0px;
+  }  
+
+  /* vertical padding for span* */
+  [class*="span"] {
+    margin-bottom:12px !important;
+  }
+  
+  /* height of space* */
+  [class*="space"] {
+    height:10px !important;
+  }
+  
+    /* Main Navigation - Hidden */
+  .navbar .nav {
+    display:none !important;
+  }
+
+  /* Select Box Navigation - Show */
+  .navbar .nav-responsive {
+    display:block !important;
+    width:100%;
+    margin:0px;
+    clear:both;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
