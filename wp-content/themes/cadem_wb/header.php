@@ -33,7 +33,7 @@
     <!-- Font Avesome Styles -->
     <link href="<?php bloginfo('template_directory'); ?>/css/font-awesome/font-awesome.css" rel="stylesheet">
     <!--[if IE 7]>
-    <link href="<?php bloginfo('template_directory'); ?>/css/font-awesome/font-awesome-ie7.min.css" rel="stylesheet">
+    <link href="<?php get_template_directory_uri(); ?>/css/font-awesome/font-awesome-ie7.min.css" rel="stylesheet">
     <![endif]-->
 
     <!-- FlexSlider Style -->
@@ -68,7 +68,7 @@
                 <div class="row">
                     <!-- Logo Container -->
                     <div class="span5 logo">
-                        <a href="index.html">
+                        <a href="<?php bloginfo('siteurl'); ?>">
                             <!-- Logo Image -->
                             <img src="<?php bloginfo('template_directory'); ?>/img/logo-header.png" alt="">
                         </a>

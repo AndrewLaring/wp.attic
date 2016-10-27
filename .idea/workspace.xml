@@ -2,204 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="268afffa-20ea-4af2-9783-30128c628364" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font/fontawesome-webfont.eot?" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font/fontawesome-webfont.eot?" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font/fontawesome-webfont.eot?v=3.0.1" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font/fontawesome-webfont.eot?v=3.0.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font/fontawesome-webfont.ttf?v=3.0.1" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font/fontawesome-webfont.ttf?v=3.0.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font/fontawesome-webfont.woff?v=3.0.1" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font/fontawesome-webfont.woff?v=3.0.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/ajax-loader.gif" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/ajax-loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/arrow1.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/arrow1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/arrow2.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/arrow2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/arrow3.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/arrow3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/back-to-the-top.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/back-to-the-top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/bg-direction-nav-2.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/bg-direction-nav-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/bg-direction-nav.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/bg-direction-nav.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/blog-detail/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/blog-detail/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/blog/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/blog/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/blog/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/blog/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/blog/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/blog/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/comment-img.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/comment-img.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/favicon.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/favicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/home/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/home/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/home/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/home/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/home/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/home/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/home/4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/home/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/logo-contact.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/logo-contact.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/logo-footer.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/logo-footer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/logo-header.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/logo-header.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/menu-divider.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/menu-divider.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-clients/1.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-clients/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-clients/2.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-clients/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-clients/3.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-clients/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-clients/4.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-clients/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-team/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-team/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-team/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-team/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-team/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-team/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-team/4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/our-team/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/page/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/page/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio-detail/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio-detail/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio-detail/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio-detail/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio-detail/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio-detail/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio-detail/4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio-detail/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/10.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/11.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/12.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/5.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/6.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/7.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/8.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/9.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/portfolio/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/progress-back.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/progress-back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/search-back.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/search-back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/select-box.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/select-box.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider-portfolio/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider-portfolio/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider-portfolio/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider-portfolio/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/slider/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/social-networks.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/social-networks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/01.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/02.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/03.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/04.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/05.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/06.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/stream/06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/triangle.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/triangle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/zoom-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/img/zoom-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font/fontawesome-webfont.eot?" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font/fontawesome-webfont.eot?" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font/fontawesome-webfont.eot?v=3.0.1" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font/fontawesome-webfont.eot?v=3.0.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font/fontawesome-webfont.ttf?v=3.0.1" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font/fontawesome-webfont.ttf?v=3.0.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font/fontawesome-webfont.woff?v=3.0.1" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font/fontawesome-webfont.woff?v=3.0.1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/ajax-loader.gif" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/ajax-loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/arrow1.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/arrow1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/arrow2.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/arrow2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/arrow3.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/arrow3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/back-to-the-top.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/back-to-the-top.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/bg-direction-nav-2.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/bg-direction-nav-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/bg-direction-nav.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/bg-direction-nav.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/blog-detail/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/blog-detail/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/blog/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/blog/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/blog/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/blog/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/blog/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/blog/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/comment-img.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/comment-img.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/favicon.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/favicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/home/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/home/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/home/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/home/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/home/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/home/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/home/4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/home/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/logo-contact.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/logo-contact.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/logo-footer.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/logo-footer.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/logo-header.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/logo-header.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/menu-divider.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/menu-divider.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-clients/1.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-clients/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-clients/2.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-clients/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-clients/3.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-clients/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-clients/4.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-clients/4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-team/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-team/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-team/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-team/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-team/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-team/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-team/4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/our-team/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/page/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/page/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio-detail/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio-detail/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio-detail/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio-detail/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio-detail/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio-detail/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio-detail/4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio-detail/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/10.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/11.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/12.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/4.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/5.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/6.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/7.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/8.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/9.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/portfolio/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/progress-back.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/progress-back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/search-back.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/search-back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/select-box.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/select-box.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider-portfolio/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider-portfolio/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider-portfolio/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider-portfolio/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider/1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider/2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider/3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/slider/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/social-networks.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/social-networks.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/01.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/02.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/03.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/04.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/05.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/06.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/stream/06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/triangle.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/triangle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/zoom-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/img/zoom-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/wp.attic.iml" afterPath="$PROJECT_DIR$/.idea/wp.attic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WP заметки" afterPath="$PROJECT_DIR$/WP заметки" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/about-us.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/about-us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/blog-detail.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/blog-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/blog.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/components.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/components.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/contact.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/bootstrap-override.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/bootstrap-override.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/bootstrap-responsive.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/flexslider.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/flexslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font-awesome.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/styles.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/grid.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/grid.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/index-2.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/index-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/index.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/functions.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/jquery-1.8.3.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/jquery-1.8.3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/jquery.flexslider.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/jquery.flexslider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/jquery.isotope.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/js/jquery.isotope.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/page.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/portfolio-2.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/portfolio-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/portfolio-detail.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/portfolio-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/portfolio.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/pricing.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/pricing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/services.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/about-us.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/about-us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/blog-detail.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/blog-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/blog.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/components.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/components.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/contact.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/bootstrap-override.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/bootstrap-override.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/bootstrap-responsive.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/flexslider.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/flexslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font-awesome.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/font-awesome/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/styles.css" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/grid.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/grid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/index-2.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/index-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/index.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/functions.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/jquery-1.8.3.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/jquery-1.8.3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/jquery.flexslider.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/jquery.flexslider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/jquery.isotope.min.js" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/js/jquery.isotope.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/page.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/portfolio-2.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/portfolio-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/portfolio-detail.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/portfolio-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/portfolio.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/pricing.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/pricing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/services.html" afterPath="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/new_theme/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/new_theme/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/new_theme/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/new_theme/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp.attic.nginx.conf" afterPath="$PROJECT_DIR$/wp.attic.nginx.conf" />
     </list>
     <ignored path="wp.attic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -223,8 +28,28 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4500">
-              <caret line="250" column="32" selection-start-line="250" selection-start-column="32" selection-end-line="250" selection-end-column="32" />
+            <state relative-caret-position="144">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="35" column="84" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font-awesome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -233,28 +58,63 @@
       <file leaf-file-name="general-template.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12402">
-              <caret line="694" column="49" selection-start-line="694" selection-start-column="49" selection-end-line="694" selection-end-column="49" />
-              <folding />
+            <state relative-caret-position="262">
+              <caret line="694" column="35" selection-start-line="694" selection-start-column="35" selection-end-line="694" selection-end-column="35" />
+              <folding>
+                <marker date="1477571525522" expanded="true" signature="28519:28532" ph="..." />
+                <marker date="1477571525522" expanded="true" signature="54681:54863" ph="SELECT YEAR(... " />
+                <marker date="1477571525522" expanded="true" signature="55755:55890" ph="SELECT YEAR(... " />
+                <marker date="1477571525522" expanded="true" signature="56655:56899" ph="SELECT YEAR(... " />
+                <marker date="1477571525522" expanded="true" signature="57870:58108" ph="SELECT DISTI... " />
+                <marker date="1477571525522" expanded="true" signature="59512:59570" ph="SELECT * FRO... wp_posts" />
+                <marker date="1477571525522" expanded="true" signature="61873:61968" ph="SELECT 1 as wp_posts" />
+                <marker date="1477571525522" expanded="true" signature="63206:63420" ph="SELECT MONTH... " />
+                <marker date="1477571525522" expanded="true" signature="63449:63680" ph="SELECT MONTH... " />
+                <marker date="1477571525522" expanded="true" signature="63856:63997" ph="..." />
+                <marker date="1477571525522" expanded="true" signature="63991:63997" ph="..." />
+                <marker date="1477571525522" expanded="true" signature="64442:64448" ph="..." />
+                <marker date="1477571525522" expanded="true" signature="65251:65257" ph="..." />
+                <marker date="1477571525522" expanded="true" signature="65350:65585" ph="SELECT DISTI... wp_posts" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/style.css">
+      <file leaf-file-name="theme.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17442">
-              <caret line="969" column="0" selection-start-line="969" selection-start-column="0" selection-end-line="969" selection-end-column="0" />
+            <state relative-caret-position="307">
+              <caret line="326" column="35" selection-start-line="326" selection-start-column="9" selection-end-line="326" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+            <state relative-caret-position="696">
+              <caret line="98" column="19" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/js/functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -278,8 +138,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/new_theme/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/styles.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/about-us.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/blog-detail.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/blog.html" />
@@ -309,6 +167,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/pricing.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb_base/services.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font-awesome.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/cadem_wb/functions.php" />
       </list>
     </option>
   </component>
@@ -488,7 +350,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -515,6 +377,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp.attic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp.attic" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cadem_wb" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="font-awesome" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -599,18 +491,18 @@
       <workItem from="1477552748280" duration="4092000" />
       <workItem from="1477572410443" duration="69000" />
       <workItem from="1477573195132" duration="241000" />
-      <workItem from="1477574050607" duration="7000" />
+      <workItem from="1477574050607" duration="5995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10147000" />
+    <option name="totallyTimeSpent" value="16135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="24" width="1625" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19630769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30215386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -648,22 +540,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14706">
@@ -707,20 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="193" column="29" selection-start-line="193" selection-start-column="29" selection-end-line="193" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -771,14 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2986">
           <caret line="581" column="15" selection-start-line="581" selection-start-column="12" selection-end-line="581" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="39" column="74" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -978,34 +832,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17442">
-          <caret line="969" column="0" selection-start-line="969" selection-start-column="0" selection-end-line="969" selection-end-column="0" />
+        <state relative-caret-position="262">
+          <caret line="694" column="35" selection-start-line="694" selection-start-column="35" selection-end-line="694" selection-end-column="35" />
+          <folding>
+            <marker date="1477571525522" expanded="true" signature="28519:28532" ph="..." />
+            <marker date="1477571525522" expanded="true" signature="54681:54863" ph="SELECT YEAR(... " />
+            <marker date="1477571525522" expanded="true" signature="55755:55890" ph="SELECT YEAR(... " />
+            <marker date="1477571525522" expanded="true" signature="56655:56899" ph="SELECT YEAR(... " />
+            <marker date="1477571525522" expanded="true" signature="57870:58108" ph="SELECT DISTI... " />
+            <marker date="1477571525522" expanded="true" signature="59512:59570" ph="SELECT * FRO... wp_posts" />
+            <marker date="1477571525522" expanded="true" signature="61873:61968" ph="SELECT 1 as wp_posts" />
+            <marker date="1477571525522" expanded="true" signature="63206:63420" ph="SELECT MONTH... " />
+            <marker date="1477571525522" expanded="true" signature="63449:63680" ph="SELECT MONTH... " />
+            <marker date="1477571525522" expanded="true" signature="63856:63997" ph="..." />
+            <marker date="1477571525522" expanded="true" signature="63991:63997" ph="..." />
+            <marker date="1477571525522" expanded="true" signature="64442:64448" ph="..." />
+            <marker date="1477571525522" expanded="true" signature="65251:65257" ph="..." />
+            <marker date="1477571525522" expanded="true" signature="65350:65585" ph="SELECT DISTI... wp_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="98" column="19" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12402">
-          <caret line="694" column="49" selection-start-line="694" selection-start-column="49" selection-end-line="694" selection-end-column="49" />
+        <state relative-caret-position="450">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4500">
-          <caret line="250" column="32" selection-start-line="250" selection-start-column="32" selection-end-line="250" selection-end-column="32" />
+        <state relative-caret-position="144">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+        <state relative-caret-position="252">
+          <caret line="35" column="84" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/css/font-awesome/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="556" column="10" selection-start-line="556" selection-start-column="8" selection-end-line="556" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="326" column="35" selection-start-line="326" selection-start-column="9" selection-end-line="326" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/cadem_wb/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="59" selection-start-line="37" selection-start-column="59" selection-end-line="37" selection-end-column="59" />
           <folding />
         </state>
       </provider>
