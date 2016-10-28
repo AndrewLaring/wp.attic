@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Home
+Template Name: Home 2
 */
 ?>
 
@@ -42,20 +42,13 @@ Template Name: Home
     </div>
 
     <div class="row">
-
-        <!-- Service -->
         <div class="span4">
-            <!-- Service Icon -->
             <div class="ic-1"><i class="icon-lightbulb"></i></div>
-            <!-- Service Title -->
             <div class="title-1">Powerful clean design</div>
-            <!-- Service Content -->
             <div class="text-1">
                 On sait depuis longtemps nnaire de plus de 200 mots kan rlatin
             </div>
         </div>
-        <!-- Service End -->
-
         <div class="span4">
             <div class="ic-1"><i class="icon-resize-small"></i></div>
             <div class="title-1">Fully responsive</div>
@@ -190,25 +183,20 @@ Template Name: Home
         <div class="span6">
             <h2>Recent News <span class="normal">/ Lastest Form Blog</span></h2>
             <div class="row">
-
-                <?php
-                $temp = $wp_query;
-                $wp_query = null;
-                $wp_query = new WP_Query();
-                $wp_query->query('showposts=2' . '&paged=' . $paged);
-                while ($wp_query->have_posts()) : $wp_query->the_post(); ?>
-
-                    <div class="span3">
-                        <div class="date"><?= get_the_date('j'); ?></div>
-                        <div class="date date-2"><?= get_the_date('M. Y'); ?></div>
-                        <h4><?php the_title(); ?></h4>
-                        <?php the_content(); ?>
-                    </div>
-
-                <?php endwhile; ?>
-
-                <?php wp_reset_postdata(); ?>
-
+                <div class="span3">
+                    <div class="date">22</div>
+                    <div class="date date-2">Jan 2013</div>
+                    <h4>Coming in from the Cold in Charleston</h4>
+                    Calling anyone who has ever daydreamed about bread crumb trails: Hansel and Gretel
+                    wannabes need look no farther than Germany’s Märchenstrasse, a 370-mile route...
+                </div>
+                <div class="span3">
+                    <div class="date">20</div>
+                    <div class="date date-2">Jan 2013</div>
+                    <h4>Plusieurs versions sont apparues avec le temps, parfois</h4>
+                    There are many variations of passages of Lorem Ipsum available, but the majority
+                    have suffered alteration in some form, by injected humour or randomised words...
+                </div>
             </div>
         </div>
 
@@ -220,19 +208,15 @@ Template Name: Home
             <div class="slider2 flexslider">
                 <ul class="slides">
                     <li>
-                        <!-- Testimonial Container -->
                         <div class="testimonials">
-                            <!-- Testimonial Content -->
                             1 De nombreuses suites logicielles de mise en page ou éditeurs de sites Web
                             ont fait du Lorem Ipsum leur faux texte par défaut, etina une recherche pour
                             'Lorem Ipsum' vous conduira vers de asolen nombreux sites qui n'en sont
                             encore qu'à leur phase de.
                             <br/><br/>
-                            <!-- Author -->
                             <strong>Marco Derianti</strong><br/>
                             software developer
                         </div>
-                        <!-- Testimonial Container End -->
                     </li>
                     <li>
                         <div class="testimonials">

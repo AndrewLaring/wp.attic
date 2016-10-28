@@ -23,21 +23,23 @@
     <![endif]-->
 
     <!-- Favicon -->
-    <link href="<?php bloginfo('template_directory'); ?>/img/favicon.png" rel="icon" type="image/png">
+    <link href="<?php echo get_template_directory_uri(); ?>/img/favicon.png" rel="icon" type="image/png">
 
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>"/>
     <!--	    <link href="style.css" rel="stylesheet">-->
-    <link href="<?php bloginfo('template_directory'); ?>/css/bootstrap-override.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri(); ?>/css/bootstrap-override.css" rel="stylesheet">
 
     <!-- Font Avesome Styles -->
-    <link href="<?php bloginfo('template_directory'); ?>/css/font-awesome/font-awesome.css" rel="stylesheet">
+    <link href="<?php echo get_template_directory_uri(); ?>/css/font-awesome/font-awesome.css" rel="stylesheet">
     <!--[if IE 7]>
     <link href="<?php get_template_directory_uri(); ?>/css/font-awesome/font-awesome-ie7.min.css" rel="stylesheet">
     <![endif]-->
 
     <!-- FlexSlider Style -->
-    <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/flexslider.css" type="text/css"
+    <!--    <link rel="stylesheet" href="-->
+    <?php //bloginfo('template_directory'); ?><!--/css/flexslider.css" type="text/css"-->
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/flexslider.css" type="text/css"
           media="screen">
 
     <!-- Web Fonts -->
@@ -54,7 +56,7 @@
 <body>
 
 <!-- Top Space -->
-<div class="space30"></div>
+<!--<div class="space30"></div>-->
 
 <!-- Content -->
 <div class="content">
@@ -70,23 +72,23 @@
                     <div class="span5 logo">
                         <a href="<?php bloginfo('siteurl'); ?>">
                             <!-- Logo Image -->
-                            <img src="<?php bloginfo('template_directory'); ?>/img/logo-header.png" alt="">
+                            <img src="<?php echo get_template_directory_uri(); ?>/img/logo-header.png" alt="">
                         </a>
                         <!-- Company Slogan -->
                         <div class="slogan">bussiness template</div>
                     </div>
                     <!-- Logo Container End -->
                     <!-- Social Icons -->
-                    <div class="span4 social-top hidden-phone">
-                        <a href="#" class="social-network dribbble"></a>
-                        <a href="#" class="social-network behance"></a>
-                        <a href="#" class="social-network feedburner"></a>
-                        <a href="#" class="social-network zerply"></a>
-                        <a href="#" class="social-network pinterest"></a>
-                        <a href="#" class="social-network facebook"></a>
-                        <a href="#" class="social-network yelp"></a>
-                        <a href="#" class="social-network vimeo"></a>
-                    </div>
+<!--                    <div class="span4 social-top hidden-phone">-->
+<!--                        <a href="#" class="social-network dribbble"></a>-->
+<!--                        <a href="#" class="social-network behance"></a>-->
+<!--                        <a href="#" class="social-network feedburner"></a>-->
+<!--                        <a href="#" class="social-network zerply"></a>-->
+<!--                        <a href="#" class="social-network pinterest"></a>-->
+<!--                        <a href="#" class="social-network facebook"></a>-->
+<!--                        <a href="#" class="social-network yelp"></a>-->
+<!--                        <a href="#" class="social-network vimeo"></a>-->
+<!--                    </div>-->
                     <!-- Social Icons End -->
                     <div class="span3">
                         <!-- Search Container -->
@@ -100,3 +102,18 @@
                     </div>
                 </div>
                 <!-- Header End -->
+                <div class="row">
+                    <div class="space10"></div>
+                </div>
+                <div class="row">
+                    <div class="span12">
+                        <!-- Navigation -->
+                        <nav class="navbar">
+                            <!-- Menu -->
+                            <?php wp_nav_menu(array('menu' => 'top-menu', 'menu_class' => 'nav')); ?>
+                            <!-- Menu End -->
+                        </nav>
+                        <!-- Navigation End -->
+                    </div>
+                </div>
+                <div class="row space10"></div>
